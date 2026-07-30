@@ -8,7 +8,7 @@
         <![CDATA[L-Bar Video]]>
       </AdTitle>
       <Pricing model="CPM" currency="USD">
-        <![CDATA[10.00]]>
+        <![CDATA[5.00]]>
       </Pricing>
       <Error>
         <![CDATA[https://track.frequency.com/error?code=[ERRORCODE]]]>
@@ -39,7 +39,7 @@
             </TrackingEvents>
             <MediaFiles>
               <MediaFile id="mf_55256" delivery="progressive" type="video/mp4" bitrate="3430" width="1920" height="1080" scalable="true" maintainAspectRatio="true">
-                <![CDATA[https://admedia.getpublica.com/media/prod/global/25381733-4d3b-4a23-a696-a445b07fa08f/1401/1772152427_L_Bar___Wonderful_Pistachios___Background_only.mov.mp4]]>
+                <![CDATA[https://m-frye.github.io/isa_vast_samples/L-Bar%20Wonderful%20Pistachios.mp4]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
