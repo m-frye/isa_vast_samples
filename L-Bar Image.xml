@@ -38,8 +38,8 @@
               </Tracking>
             </TrackingEvents>
             <MediaFiles>
-              <MediaFile delivery="progressive" type="image/png" width="1920" height="1080" scalable="true" maintainAspectRatio="true">
-                <![CDATA[https://m-frye.github.io/isa_vast_samples/Pistachios%20Image.png]]>
+              <MediaFile delivery="progressive" type="image/jpeg" width="1920" height="1080" scalable="true" maintainAspectRatio="true">
+                <![CDATA[https://m-frye.github.io/isa_vast_samples/L%20Shape%20Image.jpeg]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
