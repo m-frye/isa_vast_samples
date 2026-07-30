@@ -48,7 +48,7 @@
           <CompanionAds required="none">
             <Companion id="companion_1" width="1920" height="1080">
               <StaticResource creativeType="image/jpeg">
-                <![CDATA[https://raw.githubusercontent.com/BenAntier/vast_samples/main/Wonderful%20Pistachios.jpg]]>
+                <![CDATA[https://m-frye.github.io/isa_vast_samples/Double-Box%20Background%20Only]]>
               </StaticResource>
               <TrackingEvents>
                 <Tracking event="creativeView">
@@ -58,6 +58,10 @@
             </Companion>
           </CompanionAds>
         </Creative>
+        <Extensions>
+          <Extension type="isa_format">
+          <![CDATA[double_box]]>
+        </Extension>
       </Creatives>
     </InLine>
   </Ad>
