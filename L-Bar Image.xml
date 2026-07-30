@@ -8,7 +8,7 @@
         <![CDATA[L-Bar Image]]>
       </AdTitle>
       <Pricing model="CPM" currency="USD">
-        <![CDATA[10.00]]>
+        <![CDATA[5.00]]>
       </Pricing>
       <Error>
         <![CDATA[https://track.frequency.com/error?code=[ERRORCODE]]]>
@@ -39,7 +39,7 @@
             </TrackingEvents>
             <MediaFiles>
               <MediaFile delivery="progressive" type="image/png" width="1920" height="1080" scalable="true" maintainAspectRatio="true">
-                <![CDATA[https://benantier.github.io/vast_samples/Pistachios%20Image.png]]>
+                <![CDATA[https://m-frye.github.io/isa_vast_samples/Pistachios%20Image.png]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
