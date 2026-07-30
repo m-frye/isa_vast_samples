@@ -62,7 +62,7 @@
           <Extension type="isa_format">
           <![CDATA[double_box]]>
         </Extension>
-      </Creatives>
+     </Extensions>
     </InLine>
   </Ad>
 </VAST>
