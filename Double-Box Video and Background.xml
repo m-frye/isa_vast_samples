@@ -47,8 +47,8 @@
         <Creative>
           <CompanionAds required="none">
             <Companion id="companion_1" width="1920" height="1080">
-              <StaticResource creativeType="image/jpg">
-                <![CDATA[https://m-frye.github.io/isa_vast_samples/Double-Box%20Background%20Only.jpg]]>
+              <StaticResource creativeType="image/jpeg">
+                <![CDATA[https://m-frye.github.io/isa_vast_samples/Double-Box%20Background%20Only.jpeg]]>
               </StaticResource>
               <TrackingEvents>
                 <Tracking event="creativeView">
