@@ -2,7 +2,7 @@
 
 Test VAST ad responses for Frequency in-show advertising QA. All URLs below return valid XML with `Content-Type: application/xml`.
 
-**Base URL:** `https://benantier.github.io/vast_samples/`
+**Base URL:** `https://m-frye.github.io/vast_samples/`
 
 ---
 
@@ -10,7 +10,7 @@ Test VAST ad responses for Frequency in-show advertising QA. All URLs below retu
 
 | Ad Format | VAST Specifications &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | URL |
 |-----------|-------------------|-----|
-| L-Bar Video | **Mime-Type:** video/mp4, video/webm, video/mov<br>**Min Duration:** 10s<br>**Max Duration:** 30s<br>**Size (width):** 1080 x 432 px<br>**Size (height):** 1920 x 243 px | `https://benantier.github.io/vast_samples/L-Bar%20Video.xml` |
+| L-Bar Video | **Mime-Type:** video/mp4, video/webm, video/mov<br>**Min Duration:** 10s<br>**Max Duration:** 30s<br>**Size (width):** 1080 x 432 px<br>**Size (height):** 1920 x 243 px | `https://m-frye.github.io/vast_samples/L-Bar%20Video.xml` |
 | L-Bar Image | **Mime-Type:** image/png, image/jpeg, image/jpg<br>**Min Duration:** 10s<br>**Max Duration:** 30s<br>**Size (width):** 1080 x 432 px<br>**Size (height):** 1920 x 243 px | `https://benantier.github.io/vast_samples/L-Bar%20Image.xml` |
 | Double-Box Video + Background | **Mime-Type:** video/mp4, video/webm, video/mov<br>**Min Duration:** 10s<br>**Max Duration:** 30s<br>**Size:** 1920 x 1080 px | `https://benantier.github.io/vast_samples/Double-Box%20Composite.xml` |
 | Picture-in-Picture Video | **Mime-Type:** video/mp4, video/webm, video/mov<br>**Min Duration:** 10s<br>**Max Duration:** 30s<br>**Size:** 1920 x 1080 px | `https://benantier.github.io/vast_samples/PiP%20Video.xml` |
