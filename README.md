@@ -2,6 +2,10 @@
 
 Test VAST ad responses for Frequency in-show advertising QA. All URLs below return valid XML with `Content-Type: application/xml`.
 
+Sample Tag: 
+
+https://pbs.getpublica.com/v1/s2s-hb?site_id=78234&app_bundle=com.roku.frequencyapp&did=8f14e45fceea167a5a36dedd4bea2543&format=vast&cb=1728294857123&ip=192.0.2.17&ua=Roku%2FDVP-13.0+(023.00E04202A)&player_height=1080&player_width=1920&is_lat=0&app_category=IAB1&app_domain=frequency.com&app_name=Frequency&did_type=rida&custom_4=l_shape,double_box,pip,overlay
+
 **Base URL:** `https://m-frye.github.io/isa_vast_samples`
 
 ---
