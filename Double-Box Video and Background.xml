@@ -58,8 +58,9 @@
             </Companion>
           </CompanionAds>
         </Creative>
-        <Extensions>
-          <Extension type="isa_format">
+      </Creatives>
+      <Extensions>
+        <Extension type="isa_format">
           <![CDATA[double_box]]>
         </Extension>
      </Extensions>
