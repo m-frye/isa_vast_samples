@@ -8,7 +8,7 @@
         <![CDATA[Double-Box Composite]]>
       </AdTitle>
       <Pricing model="CPM" currency="USD">
-        <![CDATA[10.00]]>
+        <![CDATA[5.00]]>
       </Pricing>
       <Error>
         <![CDATA[https://track.frequency.com/error?code=[ERRORCODE]]]>
@@ -39,7 +39,7 @@
             </TrackingEvents>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080" scalable="true" maintainAspectRatio="true">
-                <![CDATA[https://benantier.github.io/vast_samples/Double-Box%20Wonderful%20Pistachios.mp4]]>
+                <![CDATA[https://m-frye.github.io/isa_vast_samples/Double-Box%20Wonderful%20Pistachios.mp4]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
