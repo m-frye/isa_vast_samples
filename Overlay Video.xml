@@ -8,7 +8,7 @@
         <![CDATA[Overlay]]>
       </AdTitle>
       <Pricing model="CPM" currency="USD">
-        <![CDATA[10.00]]>
+        <![CDATA[5.00]]>
       </Pricing>
       <Error>
         <![CDATA[https://track.frequency.com/error?code=[ERRORCODE]]]>
@@ -39,7 +39,7 @@
             </TrackingEvents>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/webm" width="1920" height="1080" scalable="true" maintainAspectRatio="true">
-                <![CDATA[https://benantier.github.io/vast_samples/Overlay%20Wonderful%20Pistachios.webm]]>
+                <![CDATA[https://m-frye.github.io/isa_vast_samples/Overlay%20Wonderful%20Pistachios.webm]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
