@@ -47,7 +47,7 @@
       </Creatives>
       <Extensions>
         <Extension type="isa_format">
-          <![CDATA[double-box]]>
+          <![CDATA[double_box]]>
         </Extension>
       </Extensions>
     </InLine>
